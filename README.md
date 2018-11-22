@@ -1,1 +1,0 @@
-# info318tempero
