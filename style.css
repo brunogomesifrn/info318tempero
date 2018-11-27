@@ -6,7 +6,17 @@
 
 body 
 {
-  background-color: black;
+  background-image: url('tempe3.jpeg');
+  background-repeat: no-repeat;
+}
+.cor h3
+{
+	color: white;
+	text-align: left;
+}
+h6
+{
+	color: white;
 }
 
 .form-heading { color:#fff; font-size:23px;}
@@ -28,7 +38,8 @@ body
   padding: 50px 70px 70px 71px;
 }
 
-.login-form .form-group {
+.login-form .form-group 
+{
   margin-bottom:10px;
 }
 .login-form{ text-align:center;}
@@ -37,7 +48,8 @@ body
   font-size: 14px;
   text-decoration: underline;
 }
-.login-form  .btn.btn-primary {
+.login-form  .btn.btn-primary 
+{
   background: #f0ad4e none repeat scroll 0 0;
   border-color: #f0ad4e;
   color: #ffffff;
@@ -47,7 +59,8 @@ body
   line-height: 50px;
   padding: 0;
 }
-.forgot {
+.forgot 
+{
   text-align: left; margin-bottom:30px;
 }
 .botto-text {
@@ -55,7 +68,8 @@ body
   font-size: 14px;
   margin: auto;
 }
-.login-form .btn.btn-primary.reset {
+.login-form .btn.btn-primary.reset 
+{
   background: #ff9900 none repeat scroll 0 0;
 }
 .back { text-align: left; margin-top:10px;}
