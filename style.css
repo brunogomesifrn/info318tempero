@@ -4,6 +4,11 @@
   color: white;
 }
 
+.central h1
+{
+  text-align: center;
+  color: white;
+}
 body 
 {
   background-image: url('tempe3.jpeg');
