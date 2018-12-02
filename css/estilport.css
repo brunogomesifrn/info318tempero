@@ -1,0 +1,48 @@
+body{
+background-image: url('../img/27.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+position: relative;
+}
+
+.cor{
+	background: #2385AB;
+	color: white;
+}
+a{
+	color: white;
+	font-size: 19px;
+}
+
+.bl {
+  color: #28a745;
+  background-color: transparent;
+  background-image: none;
+  border-color: #A7C04D;
+  border-radius: 10px;
+}
+
+.bl:hover {
+  color: #fff;
+  background-color: #A7C04D;
+  border-color: #A7C04D;
+}
+
+
+.form-control {
+  border-radius: 10px;
+}
+.centro{
+  margin: 0 auto;
+  width: 70%;
+}
+.texto{
+  margin: 20px;
+  text-align: center;
+  text-decoration: underline;
+  font-family: "Times New Roman";
+}.white{
+  color:white;
+}
