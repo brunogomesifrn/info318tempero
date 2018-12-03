@@ -45,4 +45,7 @@ a{
   font-family: "Times New Roman";
 }.white{
   color:white;
+}.fundo{
+  background-image: url('../img/fundo.jpg');
+
 }
